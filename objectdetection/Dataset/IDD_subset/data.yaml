@@ -1,0 +1,22 @@
+path: /kaggle/working/IDD_subset
+train: train/images
+val: val/images
+
+names:
+- animal
+- autorickshaw
+- bicycle
+- bus
+- car
+- caravan
+- motorcycle
+- person
+- rider
+- traffic light
+- traffic sign
+- trailer
+- train
+- truck
+- vehicle fallback
+
+nc: 15
